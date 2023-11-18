@@ -35,6 +35,10 @@
   - Pull the latest docker image
   - Stop the current docker container
   - Run docker container from the latest image
+  
+### Api uri
+  - [http://3.110.217.46:8080/](http://3.110.217.46:8080/)
+  - [http://3.110.217.46:8080/items/1](http://3.110.217.46:8080/items/1)
 
 ## Further reading: 
   - [dvc](https://dvc.org/), 
