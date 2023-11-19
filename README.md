@@ -41,8 +41,5 @@
   - [http://3.110.217.46:8080/items/1](http://3.110.217.46:8080/items/1)
 
 ## Further reading: 
-  - [dvc](https://dvc.org/), 
-  - [mlflow](https://mlflow.org/) 
-  - [kubernetes](https://kubernetes.io/)
-  - [pytest](https://docs.pytest.org/en/7.4.x/)
-  - [Another repository](https://github.com/lokeshmohanty/mlops-pipeline)
+  - [dvc](https://dvc.org/), [mlflow](https://mlflow.org/), [kubernetes](https://kubernetes.io/), [pytest](https://docs.pytest.org/en/7.4.x/)
+  - [https://github.com/lokeshmohanty/mlops-pipeline](https://github.com/lokeshmohanty/mlops-pipeline)
