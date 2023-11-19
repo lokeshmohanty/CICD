@@ -3,6 +3,9 @@ name: Python Application CD
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+      - 'src/tests/**'
 
 env:
   AWS_REGION: ap-south-1
